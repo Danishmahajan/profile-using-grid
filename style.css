@@ -1,0 +1,70 @@
+.body{
+	background-color: black;
+	font-family: Roboto;
+}
+
+section{
+	background-color: white;
+	height: 1240px;
+	width: 240px;
+	border-radius: 1px;
+	border-style:solid;
+	border-width: 3px;
+	border-color: white;
+    vertical-align: center;
+
+}
+#first{
+	background-color: white;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	height:232px;
+	box-shadow: 0 0 2 2px rgba(0,0,0,0.5);
+}
+#first img{
+	border-radius: 50%;
+	position: relative;
+	/*vertical-align: center;*/
+ 
+}
+#p img{
+  position: absolute;
+ 
+
+}
+#second{
+	background-color: white;
+	height: 232px;
+	box-shadow: 0 0 2 2px rgba(0,0,0,0.5);
+	margin-bottom: 10px;
+}
+#second img{
+	border-radius: 50%;
+}
+#third{
+	background-color: white;
+	margin-bottom: 10px;
+	height: 232px;
+	box-shadow: 0 0 2 2px rgba(0,0,0,0.5);
+}
+#third img{
+	border-radius: 50%;
+}
+#fourth{
+	background-color: white;
+	margin-bottom: 10px;
+	height: 232px;
+	box-shadow: 0 0 1 1px rgba(0,0,0,0.5);
+}
+#fourth img{
+	border-radius: 50%;
+}
+#fifth{
+	background-color:white;
+	margin-bottom: 10px;
+	height: 232px;
+	box-shadow: 0 0 1 1px rgba(0,0,0,0.5); 
+}
+#fifth img{
+	border-radius: 50%;
+}
